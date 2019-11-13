@@ -1,0 +1,22 @@
+html, body {
+	height: 100%;
+}
+
+body {
+	display: flex;
+	justify-content: center;
+	align-items: center;
+}
+
+.form-container img{
+	width: 100%;
+}
+
+.bg-image {
+  width: 100%;
+  height: 45vh;
+  background-image: url('../img/triangulo.png');
+	background-size: contain;
+	background-repeat: no-repeat;
+  background-position: center center;
+}
